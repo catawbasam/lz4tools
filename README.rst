@@ -14,7 +14,7 @@ This package consists of two parts:
 
 Before going any further, I recommend reading up on lz4 at: https://code.google.com/p/lz4/
 
-It is an awesome compression algorithm and I can't than Yann Collet enough for putting together the C implementation and lz4frame.
+It is an awesome compression algorithm and I can't thank Yann Collet enough for putting together the C implementation and lz4frame.
 
 Usage
 -----
@@ -110,10 +110,10 @@ Lz4Tools Module:
             ],
         )
 
-And thus ends the brief tutoral.
+And thus ends the brief tutorial.
 
 Notes
 -----
 
 Version : 
-    The first two digits of the version will always correspond with the version of lz4 that is included. Current version is r123, thus 1.2. The next  digit is correspond to milestone improvements. Example: Once lz4file supports write. The last digit will be slight improvements. Usually some contextual error, or syntax error. Perhaps even a quick fix for python3.4, since I don't use it often, if an issue is brought to my attention, I will provide a quick fix as quickly as possible. 
+    The first two digits of the version will always correspond with the version of lz4 that is included. Current version is r123, thus 1.2. The next  digit will correspond to milestone improvements. Example: Once lz4file supports write. The last digit will be slight improvements. Usually some contextual error, or syntax error. Perhaps even a quick fix for python3.4, since I don't use it often, if an issue is brought to my attention, I will provide a quick fix as quickly as possible. 
